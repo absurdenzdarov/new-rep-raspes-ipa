@@ -1,0 +1,5 @@
+build/
+Payload/
+*.ipa
+Schedule.xcodeproj/
+Config/Info.plist
